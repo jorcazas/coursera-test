@@ -1,0 +1,19 @@
+body{
+	font-family: times, serif;
+}
+
+#text{
+	background-color: grey;
+	padding: 5px;
+}
+
+
+#Omenu{
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+
+.navbar .navbar-light{
+style="background-color: #e3f2fd;
+
+}
